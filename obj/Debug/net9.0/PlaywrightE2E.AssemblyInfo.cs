@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaywrightE2E")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb06407539e443511642ec0a854ddd1afc462e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec0464e571b88fb3b0ed3bb2532e19ca1201ba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaywrightE2E")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaywrightE2E")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
