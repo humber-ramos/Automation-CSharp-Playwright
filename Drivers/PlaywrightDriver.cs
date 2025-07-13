@@ -23,7 +23,7 @@ namespace PlaywrightE2E.Drivers
 
             Browser = await Playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
             {
-                Headless = false,
+                Headless = true,
                 SlowMo = 1000
             });
 
