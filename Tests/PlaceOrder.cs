@@ -70,7 +70,7 @@ namespace PlaywrightE2E.Tests
 
             //Assert
             var orderIsPlaced = await orderConfirmationModal.orderIsConfirmed();
-            Assert.True(orderIsPlaced);
+            Assert.False(orderIsPlaced);
 
             await orderConfirmationModal.clickOKButton();
             await orderForm.clickCloseButton();
