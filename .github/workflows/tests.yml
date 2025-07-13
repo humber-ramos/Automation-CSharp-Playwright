@@ -67,3 +67,8 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./bin/Debug/net9.0/allure-report
+
+    - name: Add Allure report link to summary
+      if: always()
+      run: |
+        echo "### ✅ [View Allure Report](https://humber-ramos.github.io/Automation-CSharp-Playwright/)" >> $GITHUB_STEP_SUMMARY
