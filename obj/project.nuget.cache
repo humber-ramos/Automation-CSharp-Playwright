@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+hVo+jI0OB4=",
+  "dgSpecHash": "mZNoSW9UZs8=",
   "success": true,
   "projectFilePath": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\PlaywrightE2E.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\humbe\\.nuget\\packages\\system.io.compression.zipfile\\4.0.1\\system.io.compression.zipfile.4.0.1.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\humbe\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.net.http\\4.1.0\\system.net.http.4.1.0.nupkg.sha512",
@@ -85,8 +86,8 @@
     "C:\\Users\\humbe\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.1.0\\system.security.cryptography.x509certificates.4.1.0.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.text.encoding.extensions\\4.0.11\\system.text.encoding.extensions.4.0.11.nupkg.sha512",
-    "C:\\Users\\humbe\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\humbe\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512",
+    "C:\\Users\\humbe\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\Users\\humbe\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
     "C:\\Users\\humbe\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
@@ -112,7 +113,7 @@
       "message": "PlaywrightE2E depende de Allure.Commons (>= 2.13.10), pero no se encontró Allure.Commons 2.13.10. Allure.Commons 3.0.0.10 se resolvió en su lugar.",
       "libraryId": "Allure.Commons",
       "targetGraphs": [
-        "net9.0"
+        "net8.0"
       ]
     }
   ]
