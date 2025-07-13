@@ -1,4 +1,4 @@
-# # Automatización de Pruebas End-to-End con Playwright y Allure
+# Automatización de Pruebas End-to-End con Playwright y Allure
 
 Idiomas disponibles: [English](README.md) | [Español](README.es.md)<br>
 
