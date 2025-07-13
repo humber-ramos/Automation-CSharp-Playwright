@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","48239","PlaywrightE2E.Tests.HomeTests.PlaceOrder","","Sat Jul 12 11:37:45 CST 2025","passed","Sat Jul 12 11:38:33 CST 2025","","E2E Checkout Flow","PlaywrightE2E.Tests.HomeTests","PlaywrightE2E.Tests.HomeTests.PlaceOrder"
