@@ -34,7 +34,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: allure-results
-        path: '**/bin/Debug/net9.0/allure-results'
+        path: '**/allure-results'
 
   publish-report:
     if: ${{ success() }}
@@ -66,4 +66,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./allure-report
+        publish_dir: ./bin/Debug/net9.0/allure-report
