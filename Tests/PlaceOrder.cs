@@ -65,7 +65,7 @@ namespace PlaywrightE2E.Tests
             await orderForm.FillCreditCardField();
             await orderForm.FillMonthField();
             await orderForm.FillYearField();
-            await orderForm.pressTab(); //this will help scroll down so "purchase" button is visible
+            await orderForm.pressTab(); //this will help scroll down so the "purchase" button is visible
             await orderForm.clickPurchaseButton();
 
             //Assert
