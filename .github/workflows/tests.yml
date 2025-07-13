@@ -35,8 +35,8 @@ jobs:
       with:
         name: allure-results
         path: '**/allure-results'
-        
-publish-report:
+
+  publish-report:
     if: ${{ success() }}
     needs: test
     runs-on: ubuntu-latest
