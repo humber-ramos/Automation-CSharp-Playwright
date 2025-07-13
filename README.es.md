@@ -41,7 +41,7 @@ La prueba sigue los siguientes pasos para verificar si es posible realizar una o
 **23.** Llena el formulario de orden<br>
 **24.** Hace clic en "Purchase"<br>
 **25.** Verifica si aparece el mensaje "Thank you for your purchase!". Si aparece, la prueba pasa; si no, falla.<br>
-**26.** Cerrar sesión
+**26.** Cierra sesión
 
 ## Modo Headless – Nota Importante
 
@@ -61,7 +61,7 @@ El reporte incluye:
 ## Archivos Adicionales
 
 El repositorio contiene una carpeta llamada "Running the test (videos)", ubicada en la raíz del proyecto para mayor visibilidad. Esta carpeta incluye:
-- Una **grabación en video** de la ejecución de la prueba
+- Una **grabación en video** de la ejecución de la prueba a velocidad normal y uno con un retraso de 1.5 segundos (SlowMo)
 - **Imágenes estáticas** del reporte de Allure
 
 Esto es útil para una inspección rápida sin necesidad de abrir el reporte completo.<br>

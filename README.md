@@ -62,7 +62,7 @@ The report includes:
 ## Additional Artifacts
 
 The repository contains a folder named "Running the test (videos)" which was added to the root file for visibility. This file includes:
-- A **video recording** of the test run
+- A **video recording** of the test run at regular speed and one with a 1.5-second delay (SlowMo)
 - Static **images of the Allure report**
 
 This is useful for quick inspection without opening the full report.<br>
