@@ -18,7 +18,7 @@ The test will follow these steps to determine if an order can be made on the web
 
 **1.** Go to the website (https://demoblaze.com/)<br>
 **2.** Log in using a previously created account<br>
-**3.** Go to the cart and remove the items (if any) to make sure we are making a brand new order<break>
+**3.** Go to the cart and remove the items (if any) to make sure we are making a brand new order<br>
 **4.** Go back to the Home page<br>
 **5.** Select the "Phones" category<br>
 **6.** Click on the item "Nokia lumia 1520" and add it to the cart<br>
@@ -64,7 +64,7 @@ The repository contains a folder named "Running the test (videos)" which was add
 - A **video recording** of the test run
 - Static **images of the Allure report**
 
-This is useful for quick inspection without opening the full report.
+This is useful for quick inspection without opening the full report.<br>
 Video is automatically generated when the test is run locally. To locate it, go here:<br>
 /bin/Debug/net9.0/videos
 
