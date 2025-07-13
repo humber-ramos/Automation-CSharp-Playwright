@@ -1,0 +1,7 @@
+# Ignorar scripts JS de Playwright
+ms-playwright/** linguist-vendored
+bin/** linguist-vendored
+obj/** linguist-vendored
+node_modules/** linguist-vendored
+*.js linguist-vendored
+*.ts linguist-vendored
