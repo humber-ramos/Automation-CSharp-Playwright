@@ -1,5 +1,7 @@
 # End-to-End Test Automation with Playwright and Allure
 
+Available languages: [English](README.md) | [Español](README.es.md)<break>
+
 This project showcases an end-to-end automated test using Microsoft Playwright in combination with xUnit and Allure. It simulates a complete user journey on a test e-commerce website (Demo Blaze).
 
 ## Technologies Used
@@ -14,35 +16,35 @@ This project showcases an end-to-end automated test using Microsoft Playwright i
 
 The test will follow these steps to determine if an order can be made on the website:
 
-**1.** Go to the website (https://demoblaze.com/)
-**2.** Log in using a previously created account
-**3.** Go to the cart and remove the items (if any) to make sure we are making a brand new order
-**4.** Go back to the Home page
-**5.** Select the "Phones" category
-**6.** Click on the item "Nokia lumia 1520" and add it to the cart
-**7.** Go back to the Home page
-**8.** Select the "Phones" category
-**9.** Scroll down, click on the item "HTC One M9" and add it to the cart
-**10.** Go back to the Home page
-**11.** Select the "Laptops" category
-**12.** Click on the item "Sony vaio i7" and add it to the cart
-**13.** Go back to the Home page
-**14.** Select the "Laptops" category
-**15.** Scroll down, click on the item "McBook Pro" and add it to the cart
-**13.** Go back to the Home page
-**14.** Select the "Monitors" category
-**15.** Click on the item "Apple monitor 24" and add it to the cart
-**16.** Go to the cart
-**17.** Remove item "HTC One M9"
-**18.** Remove item "McBook Pro"
-**19.** Click on "Place Order"
-**20.** Fill out the order form
-**21.** Click on "Purchase"
-**22.** Check if the message "Thank you for your purchase!" is displayed. If it is, the test passes; if not, it fails.
+**1.** Go to the website (https://demoblaze.com/)<break>
+**2.** Log in using a previously created account<break>
+**3.** Go to the cart and remove the items (if any) to make sure we are making a brand new order<break>
+**4.** Go back to the Home page<break>
+**5.** Select the "Phones" category<break>
+**6.** Click on the item "Nokia lumia 1520" and add it to the cart<break>
+**7.** Go back to the Home page<break>
+**8.** Select the "Phones" category<break>
+**9.** Scroll down, click on the item "HTC One M9" and add it to the cart<break>
+**10.** Go back to the Home page<break>
+**11.** Select the "Laptops" category<break>
+**12.** Click on the item "Sony vaio i7" and add it to the cart<break>
+**13.** Go back to the Home page<break>
+**14.** Select the "Laptops" category<break>
+**15.** Scroll down, click on the item "McBook Pro" and add it to the cart<break>
+**13.** Go back to the Home page<break>
+**14.** Select the "Monitors" category<break>
+**15.** Click on the item "Apple monitor 24" and add it to the cart<break>
+**16.** Go to the cart<break>
+**17.** Remove item "HTC One M9"<break>
+**18.** Remove item "McBook Pro"<break>
+**19.** Click on "Place Order"<break>
+**20.** Fill out the order form<break>
+**21.** Click on "Purchase"<break>
+**22.** Check if the message "Thank you for your purchase!" is displayed. If it is, the test passes; if not, it fails.<break>
 
 ## Headless Mode - Important note
 
-The test runs in **headless mode**, which means the browser operates in the background without a visible UI. This configuration was required for GitHub Actions to execute the test in the cloud environment.
+The test runs in **headless mode**, which means the browser operates in the background without a visible UI. This configuration was required for GitHub Actions to execute the test in the cloud environment.<break>
 To change this, go to the file "PlaywrightDriver.cs" in the "Drivers" folder and set the Headless option to false.
 
 ## Allure Report
@@ -63,11 +65,11 @@ The repository contains a folder named "Running the test (videos)" which was add
 - Static **images of the Allure report**
 
 This is useful for quick inspection without opening the full report.
-Video is automatically generated when the test is run locally. To locate it, go here:
+Video is automatically generated when the test is run locally. To locate it, go here:<break>
 /bin/Debug/net9.0/videos
 
 ## Author
 
 Humberto Ramos  
-Automation Engineer 
+Automation Engineer <break>
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/humberto-ramos-580121249/)
