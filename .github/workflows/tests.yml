@@ -22,6 +22,11 @@ jobs:
     - name: 🔧 Install dependencies
       run: dotnet restore
 
+    - name: 🧩 Install Playwright Browsers
+      run: |
+        dotnet build
+        pwsh bin/Debug/net8.0/playwright.ps1 install
+
     - name: 🧪 Run tests with Allure results
       run: dotnet test 
 
