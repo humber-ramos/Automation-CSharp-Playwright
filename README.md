@@ -41,6 +41,7 @@ The test will follow these steps to determine if an order can be made on the web
 **23.** Fill out the order form<br>
 **24.** Click on "Purchase"<br>
 **25.** Check if the message "Thank you for your purchase!" is displayed. If it is, the test passes; if not, it fails.<br>
+**26.** Log out
 
 ## Headless Mode - Important note
 

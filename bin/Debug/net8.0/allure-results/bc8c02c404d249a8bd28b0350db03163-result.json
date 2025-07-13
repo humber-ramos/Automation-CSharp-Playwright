@@ -1,0 +1,88 @@
+{
+  "uuid": "6342845e-4266-4351-92be-1d5c16e49f3e",
+  "historyId": "efa43bcf6165fb12ed0ca770459c8f80",
+  "testCaseId": "b72bfbf62573789605bdc4442e5c4cca",
+  "fullName": "PlaywrightE2E:PlaywrightE2E.Tests.HomeTests.PlaceOrder()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-8CS164OS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "PlaywrightE2E.Tests.HomeTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlaywrightE2E.Tests.HomeTests.PlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightE2E.Tests.HomeTests"
+    },
+    {
+      "name": "suite",
+      "value": "E2E Checkout Flow"
+    },
+    {
+      "name": "feature",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "owner",
+      "value": "Humberto Ramos"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "story",
+      "value": "Purchase of products for a user with an existing account"
+    },
+    {
+      "name": "tag",
+      "value": "E2E"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "regression"
+    },
+    {
+      "name": "tag",
+      "value": "checkout"
+    }
+  ],
+  "links": [],
+  "name": "PlaywrightE2E.Tests.HomeTests.PlaceOrder",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Executable doesn't exist at C:\\Users\\humbe\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1169\\chrome-win\\headless_shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     pwsh bin/Debug/netX/playwright.ps1 install             ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "trace": "   at Microsoft.Playwright.Transport.Connection.InnerSendMessageToServerAsync[T](ChannelOwner object, String method, Dictionary`2 dictionary, Boolean keepNulls) in /_/src/Playwright/Transport/Connection.cs:line 206\r\n   at Microsoft.Playwright.Transport.Connection.WrapApiCallAsync[T](Func`1 action, Boolean isInternal) in /_/src/Playwright/Transport/Connection.cs:line 535\r\n   at Microsoft.Playwright.Core.BrowserType.LaunchAsync(BrowserTypeLaunchOptions options) in /_/src/Playwright/Core/BrowserType.cs:line 56\r\n   at PlaywrightE2E.Drivers.PlaywrightDriver.InitializeAsync() in C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Drivers\\PlaywrightDriver.cs:line 24\r\n   at PlaywrightE2E.TestBase.InitializeAsync() in C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs:line 24\r\n   at Xunit.Sdk.TestInvoker`1.<RunAsync>b__46_0() in /_/src/xunit.execution/Sdk/Frameworks/Runners/TestInvoker.cs:line 173\r\n   at Xunit.Sdk.ExceptionAggregator.RunAsync[T](Func`1 code) in /_/src/xunit.core/Sdk/ExceptionAggregator.cs:line 107"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1752444756699,
+  "stop": 1752444777309
+}

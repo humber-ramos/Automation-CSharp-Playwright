@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\tests\\placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:tests\\placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\readme.es.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:readme.es.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\pages\\orderconfirmationmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:pages\\orderconfirmationmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\tests\\placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:tests\\placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\playwrighte2e.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:playwrighte2e.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\.nuget\\packages\\allure.commons\\3.0.0.10\\contentfiles\\any\\netstandard2.0\\allureconfig.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -26,36 +58,12 @@
       "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:pages\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\pages\\orderconfirmationmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:pages\\orderconfirmationmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\pages\\loginmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:pages\\loginmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:drivers\\playwrightdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\playwrighte2e.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:playwrighte2e.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|solutionrelative:config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22BECDE-C11F-4043-AB2D-21CEC50B05CA}|PlaywrightE2E.csproj|c:\\users\\humbe\\source\\repos\\automation-csharp-playwright\\allure-report\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -69,59 +77,152 @@
       "DocumentGroups": [
         {
           "DockedHeight": 248,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderConfirmationModal.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderConfirmationModal.cs",
-              "RelativeDocumentMoniker": "Pages\\OrderConfirmationModal.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderConfirmationModal.cs",
-              "RelativeToolTip": "Pages\\OrderConfirmationModal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T04:26:05.718Z"
+              "DocumentIndex": 1,
+              "Title": "README.es.md",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\README.es.md",
+              "RelativeDocumentMoniker": "README.es.md",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\README.es.md",
+              "RelativeToolTip": "README.es.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-13T21:16:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-13T20:34:17.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrderForm.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderForm.cs",
-              "RelativeDocumentMoniker": "Pages\\OrderForm.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderForm.cs",
-              "RelativeToolTip": "Pages\\OrderForm.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "Config\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\ConfigReader.cs",
+              "RelativeToolTip": "Config\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T02:11:37.759Z"
+              "WhenOpened": "2025-06-22T01:32:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\TestSettings.cs",
+              "RelativeDocumentMoniker": "Config\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\TestSettings.cs",
+              "RelativeToolTip": "Config\\TestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:31.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductInformationPage.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\ProductInformationPage.cs",
-              "RelativeDocumentMoniker": "Pages\\ProductInformationPage.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\ProductInformationPage.cs",
-              "RelativeToolTip": "Pages\\ProductInformationPage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:38:43.129Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\appsettings.json",
+              "RelativeDocumentMoniker": "Config\\appsettings.json",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\appsettings.json",
+              "RelativeToolTip": "Config\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T01:14:30.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "PlaywrightDriver.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Drivers\\PlaywrightDriver.cs",
+              "RelativeDocumentMoniker": "Drivers\\PlaywrightDriver.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Drivers\\PlaywrightDriver.cs",
+              "RelativeToolTip": "Drivers\\PlaywrightDriver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:33:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PlaceOrder.cs",
               "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Tests\\PlaceOrder.cs",
               "RelativeDocumentMoniker": "Tests\\PlaceOrder.cs",
               "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Tests\\PlaceOrder.cs",
               "RelativeToolTip": "Tests\\PlaceOrder.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T22:59:28.208Z"
+              "WhenOpened": "2025-06-21T22:59:28.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs",
+              "RelativeDocumentMoniker": "TestBase.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs",
+              "RelativeToolTip": "TestBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:23:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderConfirmationModal.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderConfirmationModal.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderConfirmationModal.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderConfirmationModal.cs",
+              "RelativeToolTip": "Pages\\OrderConfirmationModal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:26:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaywrightE2E.csproj",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\PlaywrightE2E.csproj",
+              "RelativeDocumentMoniker": "PlaywrightE2E.csproj",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\PlaywrightE2E.csproj",
+              "RelativeToolTip": "PlaywrightE2E.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T22:30:05.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\CartPage.cs",
+              "RelativeToolTip": "Pages\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:01:22.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "allureConfig.Template.json",
               "DocumentMoniker": "C:\\Users\\humbe\\.nuget\\packages\\allure.commons\\3.0.0.10\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\allure.commons\\3.0.0.10\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json",
@@ -134,32 +235,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs",
-              "RelativeDocumentMoniker": "TestBase.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs",
-              "RelativeToolTip": "TestBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ProductInformationPage.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\ProductInformationPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductInformationPage.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\ProductInformationPage.cs",
+              "RelativeToolTip": "Pages\\ProductInformationPage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T22:23:01.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T01:38:43.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartPage.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\CartPage.cs",
-              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\CartPage.cs",
-              "RelativeToolTip": "Pages\\CartPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderForm.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\OrderForm.cs",
+              "RelativeToolTip": "Pages\\OrderForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T21:01:22.605Z"
+              "WhenOpened": "2025-06-29T02:11:37.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "LogInModal.cs",
               "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\LogInModal.cs",
               "RelativeDocumentMoniker": "Pages\\LogInModal.cs",
@@ -171,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.cs",
@@ -183,67 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlaywrightDriver.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Drivers\\PlaywrightDriver.cs",
-              "RelativeDocumentMoniker": "Drivers\\PlaywrightDriver.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Drivers\\PlaywrightDriver.cs",
-              "RelativeToolTip": "Drivers\\PlaywrightDriver.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T22:33:12.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\TestSettings.cs",
-              "RelativeDocumentMoniker": "Config\\TestSettings.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\TestSettings.cs",
-              "RelativeToolTip": "Config\\TestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T01:32:31.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConfigReader.cs",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\ConfigReader.cs",
-              "RelativeDocumentMoniker": "Config\\ConfigReader.cs",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\ConfigReader.cs",
-              "RelativeToolTip": "Config\\ConfigReader.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T01:32:37.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PlaywrightE2E.csproj",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\PlaywrightE2E.csproj",
-              "RelativeDocumentMoniker": "PlaywrightE2E.csproj",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\PlaywrightE2E.csproj",
-              "RelativeToolTip": "PlaywrightE2E.csproj",
-              "ViewState": "AgIAABMAAAAAAAAAAAArwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-21T22:30:05.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\appsettings.json",
-              "RelativeDocumentMoniker": "Config\\appsettings.json",
-              "ToolTip": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Config\\appsettings.json",
-              "RelativeToolTip": "Config\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-22T01:14:30.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\allure-report\\app.js",
               "RelativeDocumentMoniker": "allure-report\\app.js",
@@ -252,6 +292,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-29T19:54:35.147Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

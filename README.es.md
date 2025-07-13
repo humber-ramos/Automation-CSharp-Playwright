@@ -41,6 +41,7 @@ La prueba sigue los siguientes pasos para verificar si es posible realizar una o
 **23.** Llena el formulario de orden<br>
 **24.** Hace clic en "Purchase"<br>
 **25.** Verifica si aparece el mensaje "Thank you for your purchase!". Si aparece, la prueba pasa; si no, falla.<br>
+**26.** Cerrar sesión
 
 ## Modo Headless – Nota Importante
 
