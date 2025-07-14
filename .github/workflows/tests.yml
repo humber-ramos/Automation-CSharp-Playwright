@@ -33,13 +33,13 @@ jobs:
         pwsh bin/Debug/net8.0/playwright.ps1 install
 
     - name: 🧪 Run tests with Allure results
-      run: dotnet test 
+      run: dotnet test
 
     - name: 📦 Archive Allure results
       uses: actions/upload-artifact@v4
       with:
         name: allure-results
-        path: '**/allure-results'
+        path: bin/Debug/net8.0/allure-results
 
   publish-report:
     if: ${{ success() }}
@@ -59,25 +59,26 @@ jobs:
       run: npm install -g allure-commandline --save-dev
 
     - name: 🧹 Clean previous reports
-      run: rm -rf allure-report allure-results
+      run: |
+        rm -rf bin/Debug/net8.0/allure-report
+        rm -rf bin/Debug/net8.0/allure-results
 
     - name: ⬇️ Download allure-results from previous job
       uses: actions/download-artifact@v4
       with:
         name: allure-results
-        path: allure-results
+        path: bin/Debug/net8.0/allure-results
 
     - name: 🛠 Generate Allure report
-      run: allure generate allure-results --clean -o allure-report
+      run: allure generate bin/Debug/net8.0/allure-results --clean -o bin/Debug/net8.0/allure-report
 
     - name: 🚀 Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./allure-report
+        publish_dir: ./bin/Debug/net8.0/allure-report
 
     - name: 📝 Add Allure report link to summary
       if: always()
       run: |
-        echo "### ✅ [View Allure Report](https://humber-ramos.github.io/Automation-CSharp-Playwright/)" >> $GITHUB_STEP_SUMMARY
-        
+        echo "### ✅ [View Allure Report](https://humber-ramos.github.io/Automation-CSharp-Playwright/)" >> $GITHUB_STEP_SUMMARY 
