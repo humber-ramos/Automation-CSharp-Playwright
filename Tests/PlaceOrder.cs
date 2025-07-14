@@ -1,5 +1,6 @@
 ﻿using PlaywrightE2E.Pages;
 using Allure.Xunit.Attributes;
+using Xunit;
 using Allure.Commons;
 using System.Data;
 

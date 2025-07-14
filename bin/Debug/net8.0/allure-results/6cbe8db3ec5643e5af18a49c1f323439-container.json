@@ -1,0 +1,12 @@
+{
+  "uuid": "1c228cf3-56a2-4d83-99ad-853b6dce8ca9",
+  "name": "PlaywrightE2E.Tests.HomeTests",
+  "children": [
+    "364a7783-90f5-4d20-85c8-02190cb54f6c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1752446476848,
+  "stop": 1752446554745
+}

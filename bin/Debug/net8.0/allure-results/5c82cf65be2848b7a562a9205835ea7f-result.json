@@ -1,0 +1,88 @@
+{
+  "uuid": "e4f0d6be-67d0-4798-96ee-ade937d22d39",
+  "historyId": "efa43bcf6165fb12ed0ca770459c8f80",
+  "testCaseId": "b72bfbf62573789605bdc4442e5c4cca",
+  "fullName": "PlaywrightE2E:PlaywrightE2E.Tests.HomeTests.PlaceOrder()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-8CS164OS"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "PlaywrightE2E.Tests.HomeTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlaywrightE2E.Tests.HomeTests.PlaceOrder"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightE2E.Tests.HomeTests"
+    },
+    {
+      "name": "suite",
+      "value": "E2E Checkout Flow"
+    },
+    {
+      "name": "feature",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "owner",
+      "value": "Humberto Ramos"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "story",
+      "value": "Purchase of products for a user with an existing account"
+    },
+    {
+      "name": "tag",
+      "value": "E2E"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "regression"
+    },
+    {
+      "name": "tag",
+      "value": "checkout"
+    }
+  ],
+  "links": [],
+  "name": "PlaywrightE2E.Tests.HomeTests.PlaceOrder",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more errors occurred. (Assert.False() Failure\r\nExpected: False\r\nActual:   True) (Timeout 30000ms exceeded.\nCall log:\n  - waiting for GetByRole(AriaRole.Link, new() { Name = \"Log out\" })\n    - locator resolved to <a href=\"#\" id=\"logout2\" class=\"nav-link\" onclick=\"logOut()\">Log out</a>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    56 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms)\nAssert.False() Failure\r\nExpected: False\r\nActual:   True\nTimeout 30000ms exceeded.\nCall log:\n  - waiting for GetByRole(AriaRole.Link, new() { Name = \"Log out\" })\n    - locator resolved to <a href=\"#\" id=\"logout2\" class=\"nav-link\" onclick=\"logOut()\">Log out</a>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    56 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"modal-header\">…</div> from <div tabindex=\"-1\" role=\"dialog\" id=\"orderModal\" class=\"modal fade show\" aria-labelledby=\"orderModalLabel\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms",
+    "trace": "\n   at Xunit.Assert.False(Nullable`1 condition, String userMessage) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 82\r\n   at Xunit.Assert.False(Boolean condition) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 36\r\n   at PlaywrightE2E.Tests.HomeTests.PlaceOrder() in C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Tests\\PlaceOrder.cs:line 73\r\n   at Xunit.Sdk.TestInvoker`1.<>c__DisplayClass47_0.<<InvokeTestMethodAsync>b__1>d.MoveNext() in /_/src/xunit.execution/Sdk/Frameworks/Runners/TestInvoker.cs:line 259\r\n--- End of stack trace from previous location ---\r\n   at Xunit.Sdk.ExecutionTimer.AggregateAsync(Func`1 asyncAction) in /_/src/xunit.execution/Sdk/Frameworks/ExecutionTimer.cs:line 48\r\n   at Xunit.Sdk.ExceptionAggregator.RunAsync(Func`1 code) in /_/src/xunit.core/Sdk/ExceptionAggregator.cs:line 90\n   at Microsoft.Playwright.Transport.Connection.InnerSendMessageToServerAsync[T](ChannelOwner object, String method, Dictionary`2 dictionary, Boolean keepNulls) in /_/src/Playwright/Transport/Connection.cs:line 206\r\n   at Microsoft.Playwright.Transport.Connection.WrapApiCallAsync[T](Func`1 action, Boolean isInternal) in /_/src/Playwright/Transport/Connection.cs:line 535\r\n   at PlaywrightE2E.Pages.HomePage.clickLogOutButton() in C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\Pages\\HomePage.cs:line 91\r\n   at PlaywrightE2E.TestBase.DisposeAsync() in C:\\Users\\humbe\\source\\repos\\Automation-CSharp-Playwright\\TestBase.cs:line 39\r\n   at Xunit.Sdk.ExceptionAggregator.RunAsync(Func`1 code) in /_/src/xunit.core/Sdk/ExceptionAggregator.cs:line 90"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1752452242294,
+  "stop": 1752452320531
+}
