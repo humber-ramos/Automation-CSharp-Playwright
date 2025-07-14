@@ -19,6 +19,11 @@ jobs:
       with:
         dotnet-version: '8.0.x'
 
+    - name: 🧹 Clean old builds
+      run: |
+        dotnet clean
+        rm -rf bin obj
+
     - name: 🔧 Install dependencies
       run: dotnet restore
 
@@ -53,6 +58,9 @@ jobs:
     - name: 📦 Install Allure CLI
       run: npm install -g allure-commandline --save-dev
 
+    - name: 🧹 Clean previous reports
+      run: rm -rf allure-report allure-results
+
     - name: ⬇️ Download allure-results from previous job
       uses: actions/download-artifact@v4
       with:
@@ -66,9 +74,9 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./bin/Debug/net8.0/allure-report
+        publish_dir: ./allure-report
 
-    - name: Add Allure report link to summary
+    - name: 📝 Add Allure report link to summary
       if: always()
       run: |
         echo "### ✅ [View Allure Report](https://humber-ramos.github.io/Automation-CSharp-Playwright/)" >> $GITHUB_STEP_SUMMARY
