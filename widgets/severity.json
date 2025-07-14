@@ -1,1 +1,1 @@
-[{"uid":"32b7594498ff350e","name":"PlaywrightE2E.Tests.HomeTests.PlaceOrder","time":{"start":1752341865259,"stop":1752341913498,"duration":48239},"status":"passed","severity":"critical"}]
+[{"uid":"3c17820f1cccc823","name":"PlaywrightE2E.Tests.HomeTests.PlaceOrder","time":{"start":1752452242294,"stop":1752452320531,"duration":78237},"status":"broken","severity":"critical"}]
