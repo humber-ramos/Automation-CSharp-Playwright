@@ -22,6 +22,9 @@ jobs:
     - name: 🔧 Install dependencies
       run: dotnet restore
 
+    - name: 🧹 Clean old builds
+      run: dotnet clean
+
     - name: 🧩 Install Playwright Browsers
       run: |
         dotnet build
@@ -34,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: allure-results
-        path: '**/allure-results'
+        path: 'bin/Debug/net8.0/allure-results'
 
   publish-report:
     if: ${{ success() }}
