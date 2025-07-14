@@ -73,4 +73,4 @@ Video is automatically generated when the test is run locally. To locate it, go 
 
 Humberto Ramos  
 Automation Engineer<br>
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/humberto-ramos-580121249/)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/humberto-ramos-580121249/?locale=en_US)
