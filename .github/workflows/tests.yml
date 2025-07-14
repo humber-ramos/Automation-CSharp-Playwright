@@ -22,9 +22,6 @@ jobs:
     - name: 🔧 Install dependencies
       run: dotnet restore
 
-    - name: 🧹 Clean old builds
-      run: dotnet clean
-
     - name: 🧩 Install Playwright Browsers
       run: |
         dotnet build
